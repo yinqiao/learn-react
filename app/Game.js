@@ -1,5 +1,6 @@
 import React from 'react';
 import Board from 'Board.js';
+import Clock from 'Clock.js';
 
 function calculateWinner(squares) {
   const lines = [
@@ -95,6 +96,9 @@ class Game extends React.Component {
         <div className="game-info">
           <div>{status}</div>
           <ol>{moves}</ol>
+        </div>
+        <div className="game-info">
+          <Clock />
         </div>
       </div>
     );
