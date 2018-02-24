@@ -1,7 +1,7 @@
 # learn-react
 ## 参考文档
 1. React <https://hulufei.gitbooks.io/react-tutorial/content/jsx.html>
-
+2. 井字游戏 <https://doc.react-china.org/tutorial/tutorial.html>
 
 ## 基础概念
 
