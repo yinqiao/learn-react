@@ -1,4 +1,13 @@
 # learn-react
+
+
+## 使用步骤
+
+1. `npm install`
+2. `npm run dev`
+3. 打开 <http:127.0.0.1:8080>
+
+
 ## 参考文档
 1. React <https://hulufei.gitbooks.io/react-tutorial/content/jsx.html>
 2. 井字游戏 <https://doc.react-china.org/tutorial/tutorial.html>
